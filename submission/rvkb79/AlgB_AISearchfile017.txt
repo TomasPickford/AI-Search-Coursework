@@ -1,0 +1,5 @@
+USER = rvkb79 (Tomas Pickford),
+ALGORITHM CODE = BG, NAME OF CITY-FILE = AISearchfile017.txt,
+SIZE = 17, TOUR LENGTH = 1927,
+10,16,6,12,11,4,0,15,2,5,13,1,8,9,14,7,3,
+NOTE = 
